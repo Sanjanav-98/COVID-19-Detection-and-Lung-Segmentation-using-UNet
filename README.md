@@ -1,4 +1,3 @@
-<img width="887" alt="Screen Shot 2022-01-20 at 7 35 02 PM" src="https://user-images.githubusercontent.com/40431641/150485324-4c17ba0b-1835-4fac-9a22-a52c882a1047.png">
 COVID-19 Detection and Lung & Infection Mask Segmentation Using UNET
 
 
@@ -21,3 +20,6 @@ Output and Results
 
 The COVID-19 detection CNN model has achieved an accuracy of 98.26%. A DICE score of 0.9802 has been achieved using the lung segmentation UNET model and a DICE score of 0.8710 has been attained using the infection region segmentation UNET model
 
+The infection mask predicted compared against the actual mask : 
+
+<img width="887" alt="Screen Shot 2022-01-20 at 7 35 02 PM" src="https://user-images.githubusercontent.com/40431641/150485324-4c17ba0b-1835-4fac-9a22-a52c882a1047.png">
