@@ -7,7 +7,7 @@ The first known case was identified in Wuhan, China, in December 2019. The disea
 
 Description
 
-A CNN model was trained to detect COVID-19 in CT scans of lung. UNET models have been developed to detect the infected region in the CT scans and to perform lung segmenation as well.
+A CNN model was trained to detect COVID-19 in CT scans of lung. UNET models have been developed to detect the infected region in the CT scans and to perform lung segmenation as well. Contrast Limited Adaptive Histogram Equalisation (CLAHE) has been used to preprocess the images.
 
 
 Dataset
